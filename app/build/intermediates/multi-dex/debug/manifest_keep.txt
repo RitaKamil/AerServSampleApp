@@ -1,0 +1,3 @@
+# Referenced at /Users/rita.kamil/Downloads/dist 2/AerServSampleApp/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:27
+-keep class android.support.multidex.MultiDexApplication { <init>(...); }
+
